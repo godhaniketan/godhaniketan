@@ -57,8 +57,12 @@
 
 <br>
 
-<div style="margin-top:1em">
-  <p><a href="https://github.com/godhaniketan"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godhaniketan&show_icons=true&locale=en&layout=compact" alt="Ketankumar Godhani" /></a></p>
+<h3 align="left">Certifications</h3>
+<div align="left">
+  <a href="https://github.com/godhaniketan" style="text-decoration: none;color: #2F80ED;font-weight: bold;font-size: 16px;">
+	<div style="display: flex;">
+		<img src="https://cdn.simpleicons.org/duolingo/78C900" height="70" alt="Duolingo">
+		<div style="margin-left: 20px;">Duolingo Proficiency Exam in English</div>
+	</div>
+	</a>
 </div>
-
-<p><a href="https://github.com/godhaniketan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godhaniketan&show_icons=true&locale=en" alt="Ketankumar Godhani" /></a></p>
