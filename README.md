@@ -61,16 +61,27 @@
 <table align="left" border="0">
 	<tr>
 		<td>
-			<a href="https://github.com/godhaniketan" style="text-decoration: none;color: #2F80ED;font-weight: bold;font-size: 16px;">
+			<a href="https://github.com/godhaniketan">
+				<img width="70" height="70" src="https://img.icons8.com/color/48/google-logo.png" alt="Google"/>
+			</a>
+		</td>
+		<td cellspacing="20">
+			<div>&nbsp;&nbsp;&nbsp; Google Project Management Professional Certificate (Agile development)</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/godhaniketan">
 				<img src="https://cdn.simpleicons.org/duolingo/78C900" height="70" alt="Duolingo">
 			</a>
 		</td>
 		<td cellspacing="20">
 			<div>&nbsp;&nbsp;&nbsp; Duolingo Proficiency Exam in English</div>
 		</td>
-	
+	</tr>
+	<tr>
 		<td>
-			<a href="https://github.com/godhaniketan" style="text-decoration: none;color: #2F80ED;font-weight: bold;font-size: 16px;">
+			<a href="https://github.com/godhaniketan">
 				<img width="70" height="70" src="https://img.icons8.com/color/70/ielts.png" alt="IELTS"/>
 			</a>
 		</td>
