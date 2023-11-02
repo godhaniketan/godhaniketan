@@ -16,3 +16,49 @@
     <li>Able to convey technical concepts and designs to both technical and non-technical audiences.</li>
   </ul>
 </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.simpleicons.org/confluence/172B4D" height="30" alt="confluence"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git"  /></a>
+  <a href="https://github.com/godhaniketan"><img width="12" /></a>
+  <a href="https://github.com/godhaniketan"><img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello"  /></a>
+</div>
+
+<br>
+
+<div style="margin-top:1em">
+  <p><a href="https://github.com/godhaniketan"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godhaniketan&show_icons=true&locale=en&layout=compact" alt="Ketankumar Godhani" /></a></p>
+</div>
+
+<p><a href="https://github.com/godhaniketan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godhaniketan&show_icons=true&locale=en" alt="Ketankumar Godhani" /></a></p>
