@@ -65,8 +65,18 @@
 				<img src="https://cdn.simpleicons.org/duolingo/78C900" height="70" alt="Duolingo">
 			</a>
 		</td>
-		<td>
+		<td cellspacing="20">
 			<div>&nbsp;&nbsp;&nbsp; Duolingo Proficiency Exam in English</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/godhaniketan" style="text-decoration: none;color: #2F80ED;font-weight: bold;font-size: 16px;">
+				<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="70" height="70" viewBox="0 0 172 172" style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#1fb141"><path d="M21.5,21.5v129h64.5v-32.25v-64.5v-32.25zM86,53.75c0,17.7805 14.4695,32.25 32.25,32.25c17.7805,0 32.25,-14.4695 32.25,-32.25c0,-17.7805 -14.4695,-32.25 -32.25,-32.25c-17.7805,0 -32.25,14.4695 -32.25,32.25zM118.25,86c-17.7805,0 -32.25,14.4695 -32.25,32.25c0,17.7805 14.4695,32.25 32.25,32.25c17.7805,0 32.25,-14.4695 32.25,-32.25c0,-17.7805 -14.4695,-32.25 -32.25,-32.25z"></path></g></g></svg>
+			</a>
+		</td>
+		<td cellspacing="20">
+			<div>&nbsp;&nbsp;&nbsp; IELTS - English Proficiency Exam</div>
 		</td>
 	</tr>
 </table>
