@@ -68,8 +68,7 @@
 		<td cellspacing="20">
 			<div>&nbsp;&nbsp;&nbsp; Duolingo Proficiency Exam in English</div>
 		</td>
-	</tr>
-	<tr>
+	
 		<td>
 			<a href="https://github.com/godhaniketan" style="text-decoration: none;color: #2F80ED;font-weight: bold;font-size: 16px;">
 				<img width="70" height="70" src="https://img.icons8.com/color/70/ielts.png" alt="IELTS"/>
