@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/godhaniketan"><img src="https://github-profile-trophy.vercel.app/?username=godhaniketan" alt="Ketankumar Godhani" /></a> </p>
 
 <p>
-  <h3 align="left">👉</h3>
   <ul>
     <li>Dedicated software professional with 10+ years of strong hands-on experience with software architecture, design, and development.</li>
     <li>Architected, designed, developed, and deployed plenty of greenfield projects for USA, Europe, and Africa-based multibillion-dollar brands with 100% client satisfaction.</li>
