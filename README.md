@@ -53,7 +53,7 @@
 </table>
 
 <br>
-<div>
+<div style="width:100%;" width="100%">
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://github.com/godhaniketan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore"  /></a>
