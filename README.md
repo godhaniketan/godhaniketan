@@ -18,42 +18,6 @@
 </p>
 
 <br>
-<h3 align="left">Certifications</h3>
-<table align="left" border="0" width="100%">
-	<tr>
-		<td>
-			<a href="https://github.com/godhaniketan">
-				<img width="70" height="70" src="https://img.icons8.com/color/48/google-logo.png" alt="Google"/>
-			</a>
-		</td>
-		<td cellspacing="20">
-			<div>&nbsp;&nbsp;&nbsp; Google Project Management Professional Certificate (Agile development)</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/godhaniketan">
-				<img src="https://cdn.simpleicons.org/duolingo/78C900" height="70" alt="Duolingo">
-			</a>
-		</td>
-		<td cellspacing="20">
-			<div>&nbsp;&nbsp;&nbsp; Duolingo Proficiency Exam in English</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/godhaniketan">
-				<img width="70" height="70" src="https://img.icons8.com/color/70/ielts.png" alt="IELTS"/>
-			</a>
-		</td>
-		<td cellspacing="20">
-			<div>&nbsp;&nbsp;&nbsp; IELTS - English Proficiency Exam</div>
-		</td>
-	</tr>
-</table>
-
-<br>
-<div style="width:100%;" width="100%">
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://github.com/godhaniketan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore"  /></a>
@@ -92,11 +56,46 @@
 </div>
 
 <br>
+<h3 align="left">Certifications</h3>
+<table align="left" border="0" width=100%>
+	<tr>
+		<td>
+			<a href="https://github.com/godhaniketan">
+				<img width="70" height="70" src="https://img.icons8.com/color/48/google-logo.png" alt="Google"/>
+			</a>
+		</td>
+		<td cellspacing="20">
+			<div>&nbsp;&nbsp;&nbsp; Google Project Management Professional Certificate (Agile development)</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/godhaniketan">
+				<img src="https://cdn.simpleicons.org/duolingo/78C900" height="70" alt="Duolingo">
+			</a>
+		</td>
+		<td cellspacing="20">
+			<div>&nbsp;&nbsp;&nbsp; Duolingo Proficiency Exam in English</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/godhaniketan">
+				<img width="70" height="70" src="https://img.icons8.com/color/70/ielts.png" alt="IELTS"/>
+			</a>
+		</td>
+		<td cellspacing="20">
+			<div>&nbsp;&nbsp;&nbsp; IELTS - English Proficiency Exam</div>
+		</td>
+	</tr>
+</table>
+
+<br>
+
+
 
 <div>
 <p><a href="https://github.com/godhaniketan"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godhaniketan&" alt="Ketankumar Godhani" /></a></p>
-</div>
-
 </div>
 
 
