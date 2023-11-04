@@ -51,8 +51,9 @@
 		</td>
 	</tr>
 </table>
-<br>
 
+<br>
+<div>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://github.com/godhaniketan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore"  /></a>
@@ -96,6 +97,6 @@
 <p><a href="https://github.com/godhaniketan"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godhaniketan&" alt="Ketankumar Godhani" /></a></p>
 </div>
 
-<br>
+</div>
 
 
