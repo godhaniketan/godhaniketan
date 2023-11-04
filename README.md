@@ -19,7 +19,7 @@
 
 <br>
 <h3 align="left">Certifications</h3>
-<table align="left" border="0">
+<table align="left" border="0" width="100%">
 	<tr>
 		<td>
 			<a href="https://github.com/godhaniketan">
