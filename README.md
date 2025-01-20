@@ -94,8 +94,4 @@
 
 
 
-<div>
-<p><a href="https://github.com/godhaniketan"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godhaniketan&" alt="Ketankumar Godhani" /></a></p>
-</div>
-
 
