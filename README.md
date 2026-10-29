@@ -5,7 +5,7 @@
 
 <p>
   <ul>
-    <li>Dedicated software professional with 11+ years of strong hands-on experience with software architecture, design, and development.</li>
+    <li>Dedicated software professional with 12+ years of strong hands-on experience with software architecture, design, and development.</li>
     <li>Architected, designed, developed, and deployed plenty of greenfield projects for USA, Europe, and Africa-based multibillion-dollar brands with 100% client satisfaction.</li>
     <li>Proven record of consistently delivering products with high complexity and tight deadlines.</li>
     <li>Highly motivated individual with a can-do attitude and belief in leading by example.</li>
